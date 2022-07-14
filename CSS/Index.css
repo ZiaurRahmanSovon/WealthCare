@@ -1,0 +1,67 @@
+
+.navbar{
+    position: relative ;
+    top: 0px;
+    color: white;
+    background-color: #28282b;
+}
+
+.navbar-brand{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+
+.navbar-nav{
+    padding-left: 100px;
+}
+
+.nav-item{
+    padding-left: 10px;
+
+        background-color: #28282b;
+        color: white;
+}
+
+.nav-link:hover{
+    font-size: 20px;
+    color: #d8d8d8;
+    border-radius: 10px;
+}
+
+.link-dark{
+    text-decoration: none;
+}
+
+.link-dark:hover{
+    padding: 10px;
+    font-size: 20px;
+    color: #d8d8d8;
+    background-color: gray;
+    border-radius: 10px;
+}
+
+.carousel-caption{
+    text-align: right;
+}
+
+.row{
+    text-align: center;
+    width: 100%;
+}
+
+
+.title{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+.p{
+    color: white;
+    font-size: 25px;
+}
+
+.footer{
+    margin-top: 200px;
+}
